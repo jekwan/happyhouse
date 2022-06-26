@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white" height="50">
 <img src="https://img.shields.io/badge/MySql-F80000?style=flat&logo=mysql&logoColor=white" height="50">
 
+# 프로젝트 구조
+
+저장소는 `SpringBoot` 구조이며, `/vue/happyhouse`에 프론트엔드 프로젝트(`Vue`)가 있습니다.
+
 # 프로젝트 진행과 역할 분담
 
 `프로젝트 팀원` : 김제관(팀장), 김영진(팀원)  
